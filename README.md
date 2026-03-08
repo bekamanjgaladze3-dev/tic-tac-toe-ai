@@ -37,7 +37,8 @@ tic-tac-toe-ai
 
 ## 📸 Preview
 
-Simple browser-based Tic Tac Toe game.
+
+<img width="1910" height="1037" alt="Screenshot 2026-03-08 155326" src="https://github.com/user-attachments/assets/fd14ab3b-1f14-4906-ad8b-f7652ce91f71" />
 
 ## 📄 License
 
